@@ -13,8 +13,16 @@ NestJs APi Tasks
 $ npm install
 ```
 
-## Running the app
+## Run backend, in tasksapi folder
 
 ```bash
+$ npm install
 $ npm run start:dev
+```
+
+## Run front, in tasksfront folder
+
+```bash
+$ npm install
+$ npm run dev
 ```
