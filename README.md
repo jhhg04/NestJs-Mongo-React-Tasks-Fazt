@@ -1,11 +1,16 @@
 
 ## Description
 ```bash
-NestJs APi Tasks
+APi Tasks
+NestJs 
 MongoDb
 React
+Tailwind
 ```
+## UI
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/929bb873-d4c4-46f4-abc5-70a642c26740)
 
+## API
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/dc4e4fb8-590a-4f83-bbbc-28bdf657e2d4)
 
