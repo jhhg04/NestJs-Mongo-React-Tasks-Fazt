@@ -6,8 +6,11 @@ NestJs
 MongoDb
 React
 Tailwind
+react-icons
 ```
 ## UI
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/accd9029-ad57-4de3-9b41-8280ed0798b4)
+
 ![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/929bb873-d4c4-46f4-abc5-70a642c26740)
 
 ## API
