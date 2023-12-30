@@ -42,7 +42,7 @@ front -> tasksfront
 ```bash
 $ npm install
 $ npm run start:dev
-http://localhost:3000/tasks/
+http://localhost:3000/api/tasks/
 ```
 
 ## Run front, in tasksfront folder
