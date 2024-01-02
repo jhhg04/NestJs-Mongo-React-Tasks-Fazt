@@ -14,6 +14,12 @@ react-icons
 ![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/929bb873-d4c4-46f4-abc5-70a642c26740)
 
 ## API
+### Swagger
+```bash
+http://localhost:3000/api
+```
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/616860bc-2738-4d67-ad33-4638fc1c203e)
+
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/dc4e4fb8-590a-4f83-bbbc-28bdf657e2d4)
 
