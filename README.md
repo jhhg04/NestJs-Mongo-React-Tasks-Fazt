@@ -18,7 +18,9 @@ react-icons
 ```bash
 http://localhost:3000/api
 ```
-![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/616860bc-2738-4d67-ad33-4638fc1c203e)
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/6e9ba0b7-b528-4672-bbb9-3849a8994802)
+
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/aa8d96ba-9ba5-4898-8d00-cfdf277456b9)
 
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/dc4e4fb8-590a-4f83-bbbc-28bdf657e2d4)
